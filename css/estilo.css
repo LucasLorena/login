@@ -1,0 +1,40 @@
+body{
+	font-family: Arial;
+	font-size: 14px
+	padding 200px;
+}
+fieldset{
+	background-color: #eee;
+	background: -webkit-gradiente(linear, left top, left bottom, from(#F9F9F9), to(#EEE));
+	padding: 10px solid #FFF;
+	border: 1px solid #fff;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px #ddd ;
+	width: 260px;
+	margin: auto;
+
+}
+label{
+	display: block;
+	padding: 5px;
+}
+label span{
+	display: block;
+	padding: 3px;
+	color: #AAA;
+}
+label input{
+	border: 1px solid #DDD;
+	border-radius: 5px;
+	font-size: 14px;
+	padding: 5px;
+
+}
+label buttom{
+	background-color: #77AACC;
+	color: #FFF;
+	border: 1px solid #FFF;
+	border-radius: 5px;
+	padding: 5px 15px;
+	box-shadow: 0px 0px 10px #ddd ;	
+}
